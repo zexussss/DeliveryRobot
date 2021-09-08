@@ -1,0 +1,15 @@
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/bin/Debug/net5.0/DeliveryRobot.deps.json
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/bin/Debug/net5.0/DeliveryRobot.runtimeconfig.json
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/bin/Debug/net5.0/DeliveryRobot.runtimeconfig.dev.json
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/bin/Debug/net5.0/DeliveryRobot.dll
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/bin/Debug/net5.0/ref/DeliveryRobot.dll
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/bin/Debug/net5.0/DeliveryRobot.pdb
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.csproj.AssemblyReference.cache
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.AssemblyInfoInputs.cache
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.AssemblyInfo.cs
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.csproj.CoreCompileInputs.cache
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.dll
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/ref/DeliveryRobot.dll
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.pdb
+/Users/zexus/Documents/рбт/ITechArt/DeliveryRobot/DeliveryRobot/obj/Debug/net5.0/DeliveryRobot.genruntimeconfig.cache

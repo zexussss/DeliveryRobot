@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/zexus/.dotnet/store/|arch|/|tfm|",
+      "/Users/zexus/.nuget/packages"
+    ]
+  }
+}
